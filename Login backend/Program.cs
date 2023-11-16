@@ -23,49 +23,46 @@ builder.Services.AddDbContext<ApplicationDbcontext>(options => options.UseNpgsql
 
 //programar awt
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(
-    opciones => opciones.TokenValidationParameters = new TokenValidationParameters{
-    ValidateIssuer = false,
-    ValidateAudience = false,
-    ValidateLifetime = true,
-    ValidateIssuerSigningKey = true,
-    IssuerSigningKey = new SymmetricSecurityKey(
-        Encoding.UTF8.GetBytes(builder.Configuration["Llave.JWT"])),
-    ClockSkew = TimeSpan.Zero
-});
-
-//usar barrer en swagger
-
-builder.Services.AddSwaggerGen(c =>
-{
-    c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
+    opciones => opciones.TokenValidationParameters = new TokenValidationParameters
     {
-        Name = "Authoriation",
-        Type = SecuritySchemeType.ApiKey,
-        Scheme = "Bearer",
-        BearerFormat = "JWT",
-        In = ParameterLocation.Header
+        ValidateIssuer = false,
+        ValidateAudience = false,
+        ValidateLifetime = true,
+        ValidateIssuerSigningKey = true,
+        IssuerSigningKey = new SymmetricSecurityKey(
+        Encoding.UTF8.GetBytes(builder.Configuration["LlaveJWT"])),
+        ClockSkew = TimeSpan.Zero
     });
 
-    c.AddSecurityRequirement(new OpenApiSecurityRequirement
+//Usar barrer en swagger
+builder.Services.AddSwaggerGen(
+    c =>
     {
+        c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
         {
+            Name = "Authorization",
+            Type = SecuritySchemeType.ApiKey,
+            Scheme = "Bearer",
+            BearerFormat = "JWT",
+            In = ParameterLocation.Header,
+        });
+        c.AddSecurityRequirement(new OpenApiSecurityRequirement
+    {
+            {
         new OpenApiSecurityScheme
         {
             Reference = new OpenApiReference
             {
-                Type= ReferenceType.SecurityScheme,
+                Type = ReferenceType.SecurityScheme,
                 Id = "Bearer"
             }
         },
-        new string[] {}
+            new string[] { }
         }
     });
-});
+    });
 
 var app = builder.Build();
-
-
-
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
