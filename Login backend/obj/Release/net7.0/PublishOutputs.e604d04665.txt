@@ -1,0 +1,63 @@
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\Login backend.exe
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\appsettings.json
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\Login backend.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\Login backend.runtimeconfig.json
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\Login backend.pdb
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\Azure.Core.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\Azure.Identity.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.JsonPatch.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\Microsoft.Bcl.AsyncInterfaces.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\Microsoft.Data.SqlClient.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Relational.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\Microsoft.Extensions.Identity.Core.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\Microsoft.Extensions.Identity.Stores.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\Microsoft.Extensions.Options.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\Microsoft.Identity.Client.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\Microsoft.IdentityModel.Abstractions.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\Microsoft.IdentityModel.Logging.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\Microsoft.IdentityModel.Protocols.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\Microsoft.IdentityModel.Tokens.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\Microsoft.SqlServer.Server.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\Microsoft.Win32.SystemEvents.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\Newtonsoft.Json.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\Newtonsoft.Json.Bson.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\Npgsql.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\System.Configuration.ConfigurationManager.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\System.Drawing.Common.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\System.IdentityModel.Tokens.Jwt.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\System.Memory.Data.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\System.Runtime.Caching.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\System.Security.Cryptography.ProtectedData.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\System.Security.Permissions.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\System.Windows.Extensions.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\backup\tec\semestre 11\tecnologias moviles 2\visual studio cumunity\proyecto 1\Login backend\Login backend\obj\Release\net7.0\PubTmp\Out\Login backend.deps.json
